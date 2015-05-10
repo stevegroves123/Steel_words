@@ -9,6 +9,11 @@
     "resources": {
         "media": [
             {
+                "file": "images/menu_icon_sg.png",
+                "name": "menu_icon_sg",
+                "type": "png"
+            },
+            {
                 "file": "images/SG.png",
                 "menuIcon": true,
                 "name": "sg_main_logo",
@@ -17,10 +22,10 @@
         ]
     },
     "sdkVersion": "2",
-    "shortName": "Steel_words",
+    "shortName": "wf_steel",
     "uuid": "7ccda947-c768-4876-9ac2-ef8096048ad9",
     "versionCode": 1,
-    "versionLabel": "1.50",
+    "versionLabel": "1.42",
     "watchapp": {
         "watchface": true
     }
